@@ -27,7 +27,6 @@ img {
 #Minha-foto {
     float: left;
     width: 280px;
-    padding: 10px;
     background-color: rgb(126, 126, 145);
 }
 
@@ -37,18 +36,17 @@ img {
 
 .MeuNome {
     text-align:center;
-    font-size: 50px;
-    margin: 0px;
+    font-size: 40px;
 }
 
 .MinhaDescrição {
     font-size: 20px;
     text-align: center;
     position: relative;
-    height: 10px;
+    height: 0px;
     margin-top: 10%;
 }
 
 div {
-    border: 3px solid red;
+    border: solid red;
 }
