@@ -43,10 +43,5 @@ img {
     font-size: 20px;
     text-align: center;
     position: relative;
-    height: 0px;
-    margin-top: 5%;
-}
-
-div {
-    border: solid red;
+    padding: 5%;
 }
